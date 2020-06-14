@@ -11,6 +11,7 @@ Unit Circle using [Tau](http://tauday.com/tau-manifesto) as the circle constant.
   $ which tex2svg
 
   Go to the file /src/uc/generate.clj, locate (def tex2svg "/usr/local/bin/tex2svg"), and replace that string with the output of which. If you're on Windows, replace it with the path of the installation of tex2svg if you managed to install it.
+
 4. On a terminal execute:
    $ lein run
 
