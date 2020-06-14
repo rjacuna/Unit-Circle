@@ -24,6 +24,6 @@ Unit Circle using [Tau](http://tauday.com/tau-manifesto) as the circle constant.
 
 ## Copyright and license
 
-Copyright © 2016 Ricardo J. Acuña
+Copyright © 2020 Ricardo J. Acuna
 
 Licensed under the EPL (see the file LICENSE).
